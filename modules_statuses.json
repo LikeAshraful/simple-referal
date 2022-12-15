@@ -1,0 +1,6 @@
+{
+    "Blog": true,
+    "Model": true,
+    "Category": true,
+    "User": true
+}
